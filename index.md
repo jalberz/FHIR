@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-# About Theme
+# About
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+As FHIR increases the interoperability of health record systems, care should be taken as new implementations are established. These systems may not have universal security standards (as outlined in FHIR’s own [security overview](https://www.hl7.org/fhir/security.html)).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+ What can developers do to insure that patient data is protected? What education should both developers and healthcare professionals understand about the expectations and limitations of their counterparts’ field?
