@@ -1,11 +1,11 @@
 - title: HL7 Data Interfaces in Medical Environments - Understanding the Fundamental Flaw in Healthcare
   url: https://www.sans.org/reading-room/whitepapers/vpns/hl7-data-interfaces-medical-environments-understanding-fundamental-flaw-healthcare-38005
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  image: images/firewoord.jpg 
   completed: true
 
 - title: HL7 Security Issues – How to Protect Patient Data
   url: https://auriga.com/blog/2016/hl7-security-issues-how-to-protect-patient-data/
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  image: images/hot_coals.jpg
   completed: true
 
 - title: FHIR Security Overview
