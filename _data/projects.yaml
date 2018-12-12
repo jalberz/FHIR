@@ -1,11 +1,31 @@
-- title: Security
-  url: https://jalberz.github.io/FHIR/
+- title: HL7 Data Interfaces in Medical Environments - Understanding the Fundamental Flaw in Healthcare
+  url: https://www.sans.org/reading-room/whitepapers/vpns/hl7-data-interfaces-medical-environments-understanding-fundamental-flaw-healthcare-38005
   image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+  completed: true
 
-- title: Privacy
-  url: https://jalberz.github.io/FHIR/
+- title: HL7 Security Issues – How to Protect Patient Data
+  url: https://auriga.com/blog/2016/hl7-security-issues-how-to-protect-patient-data/
+  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  completed: true
+
+- title: FHIR Security Overview
+  url: http://hl7.org/fhir/2018Sep/security.html
+  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  completed: true
+
+- title: FHIR OAuth Scope
+  url: https://healthcaresecprivacy.blogspot.com/2016/01/fhir-oauth-scope.html
+  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  completed: true
+
+- title: HL7 Data Interfaces in Medical Environments - Attacking and Defending the Achille's Heel of Healthcare
+  url: https://www.sans.org/reading-room/whitepapers/hipaa/hl7-data-interfaces-medical-environments-attacking-defending-achilles-heel-healthcare-38010
   image: http://taylantatli.me/Halve/images/halve-home-image.png 
-  completed: false
+  completed: true
+
+- title: FHIR Security - Do (Not) Worry
+  url: https://healthcaresecprivacy.blogspot.com/2015/01/fhir-security-do-not-worry.html
+  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  completed: true
 
 
